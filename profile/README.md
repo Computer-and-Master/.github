@@ -24,5 +24,5 @@
 <br>
 
 ## 🚀 goal
-> - Linux Master !
-> - SQL Master !
+> **Linux Master !**
+> **SQL Master !**
