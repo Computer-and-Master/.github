@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><b>Heo Jeong Eun</b></td>
-    <td align="center"><a href="https://github.com/numerical43"><b>Kang Su Ui</b></td>
+    <td align="center"><a href="https://github.com/numerical43"><b>Kang Sui</b></td>
   </tr>
   <tr>
     <td align="center"><strong>C++, Python</strong></td>
-    <td align="center">Java, <strong>Python</strong></td>
+    <td align="center"><strong>Java</strong></td>
   </tr>
 </table>
 
