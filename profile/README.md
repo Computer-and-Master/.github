@@ -24,4 +24,4 @@
 <br>
 
 ## 🚀 goal
-> **Computer and Master !**
+- Computer and Master !
