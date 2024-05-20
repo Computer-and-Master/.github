@@ -1,6 +1,6 @@
 # Computer and Master
 
-> ### Prepare SW-related Certificates.
+> ### Prepare SW-Related Certificates.
 > SW 관련 자격증을 준비합니다. 
 
 <br>
