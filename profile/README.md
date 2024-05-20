@@ -1,7 +1,7 @@
 # Computer and Master
 
-> ### Prepare SW-Related Certificates.
-> SW 관련 자격증을 준비합니다. 
+> ### Prepare Software Certificates
+> Linux Master, SQL Developer, 정보처리기사 자격증을 준비합니다. 
 
 <br>
 
